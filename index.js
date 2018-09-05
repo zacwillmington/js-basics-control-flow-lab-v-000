@@ -18,7 +18,7 @@ function ternaryCheckCity(city){
     return response;
 }
 
-function charmForTip(tip){
+function switchOnCharmForTip(tip){
     let valeu;
     tip === "generous" ? valeu = "Thank you so much." : valeu = "Thank you.";
     return valeu;
