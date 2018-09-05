@@ -4,4 +4,5 @@ function scuberGreetingForFeet(amount) {
     if (amount <= 400) {
         customers = "This one is on me!";
     }
+    return customers;
 }
