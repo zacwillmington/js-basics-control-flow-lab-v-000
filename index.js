@@ -24,7 +24,7 @@ function switchOnCharmFromTip(tip){
         valeu = "Thank you so much."
     } else if (tip === "not as generous"){
          valeu = "Thank you.";
-    } else {
+    } else if (tip === "anything else") {
         valeu = "Bye";
     }
     return valeu;
