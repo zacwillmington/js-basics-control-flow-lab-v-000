@@ -17,3 +17,9 @@ function ternaryCheckCity(city){
     city === "NYC" ? response = "Ok, sounds good." : response = "No go.";
     return response;
 }
+
+function charmForTip(tip){
+    let valeu;
+    tip === "generous" ? valeu = "Thank you so much." : valeu = "Thank you.";
+    return valeu;
+}
