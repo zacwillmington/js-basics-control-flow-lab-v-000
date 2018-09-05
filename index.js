@@ -2,6 +2,6 @@
 function scuberGreetingForFeet(amount) {
     let customers;
     if (amount <= 400) {
-        customers = 400;
+        `This one is on me!`
     }
 }
