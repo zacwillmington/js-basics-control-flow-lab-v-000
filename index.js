@@ -13,5 +13,5 @@ function scuberGreetingForFeet(distance) {
 
 
 function terneryCheckCity(city){
-    city === "NYC" ? "Ok, sounds good." : "No go."
+    city === "NYC" ? "Ok, sounds good." : "No go.";
 }
