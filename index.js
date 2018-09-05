@@ -10,3 +10,8 @@ function scuberGreetingForFeet(distance) {
     }
     return customers;
 }
+
+
+function terneryCheckCity(city){
+
+}
