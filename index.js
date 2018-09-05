@@ -18,7 +18,7 @@ function ternaryCheckCity(city){
     return response;
 }
 
-function switchOnCharmForTip(tip){
+function switchOnCharmFormTip(tip){
     let valeu;
     tip === "generous" ? valeu = "Thank you so much." : valeu = "Thank you.";
     return valeu;
