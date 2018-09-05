@@ -13,5 +13,10 @@ function scuberGreetingForFeet(distance) {
 
 
 function terneryCheckCity(city){
+    
+    if (city){
 
+    } else if {
+
+    }
 }
